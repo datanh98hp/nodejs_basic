@@ -1,0 +1,25 @@
+{
+  "name": "nodelearning",
+  "version": "1.0.0",
+  "description": "learning node basic",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datanh98hp/nodejs_basic.git"
+  },
+  "keywords": [
+    "learning",
+    "node",
+    "basic"
+  ],
+  "author": "Dat Anh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datanh98hp/nodejs_basic/issues"
+  },
+  "homepage": "https://github.com/datanh98hp/nodejs_basic#readme"
+}
